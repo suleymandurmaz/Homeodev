@@ -20,8 +20,11 @@ public class Showroom implements Iterable<Car> {
     }
 
     public void add(Car car) {
+
+
         cars[count++] = car;
     }
+
 
     public Car get(int index) {
 

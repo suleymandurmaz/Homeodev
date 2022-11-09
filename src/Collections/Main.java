@@ -7,12 +7,12 @@ public class Main {
         showroom.add(new Car(2, "car1"));
         showroom.add(new Car(3, "car1"));
 
-        for (var item : showroom) {
-            System.out.println(item);
-
-
-        }
+      /*  for (var item : showroom) {
+            System.out.println(item);*/
 
 
     }
-}
+
+
+    }
+
